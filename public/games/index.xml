@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on </title>
+    <link>http://localhost:1313/games/</link>
+    <description>Recent content in Games on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Feb 2026 10:48:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/games/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Are you sure you want to play this?</title>
+      <link>http://localhost:1313/games/aysywtpt/</link>
+      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/games/aysywtpt/</guid>
+      <description>&lt;h2 id=&#34;about-the-game&#34;&gt;About the game&lt;/h2&gt;&#xA;&lt;p&gt;Games 2&lt;/p&gt;&#xA;&lt;h2 id=&#34;gameplay&#34;&gt;gameplay&lt;/h2&gt;&#xA;&lt;p&gt;good game&lt;/p&gt;&#xA;&lt;h2 id=&#34;credits&#34;&gt;Credits&lt;/h2&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://unity.com/&#34; target=&#34;_blank&#34;&gt;Unity Game Engine&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First person frogger</title>
+      <link>http://localhost:1313/games/fpfd/</link>
+      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/games/fpfd/</guid>
+      <description>&lt;p&gt;A small game I challenged myself to make in 2 days&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>FPS demo</title>
+      <link>http://localhost:1313/games/fpsd/</link>
+      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/games/fpsd/</guid>
+      <description>&lt;p&gt;Wanted to test out the movement I worked on, and applied it to a small scale fps level&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Going Home</title>
+      <link>http://localhost:1313/games/gh/</link>
+      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/games/gh/</guid>
+      <description>&lt;p&gt;the second game I ever made&lt;/p&gt;&#xA;&lt;h1&gt;&lt;/h1&gt;&#xA;&lt;p&gt;game where you walk homewith social anxiety&lt;/p&gt;&#xA;&lt;p&gt;You must make your way home from work while avoiding other people to avoid having an anxiety attack.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Horror game demo</title>
+      <link>http://localhost:1313/games/hgd/</link>
+      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/games/hgd/</guid>
+      <description>&lt;p&gt;A small horror game I made&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

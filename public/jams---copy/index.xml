@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jams - Copy on </title>
+    <link>http://localhost:1313/jams---copy/</link>
+    <description>Recent content in Jams - Copy on </description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 10 Feb 2026 10:48:52 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/jams---copy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>In development</title>
+      <link>http://localhost:1313/jams---copy/dev/</link>
+      <pubDate>Tue, 10 Feb 2026 10:48:52 +0000</pubDate>
+      <guid>http://localhost:1313/jams---copy/dev/</guid>
+      <description>&lt;p&gt;the second game I ever made&lt;/p&gt;&#xA;&lt;h1&gt;&lt;/h1&gt;&#xA;&lt;p&gt;game where you walk homewith social anxiety&lt;/p&gt;&#xA;&lt;p&gt;You must make your way home from work while avoiding other people to avoid having an anxiety attack.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;http://localhost:1313/about/&#34;&gt;Link&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
