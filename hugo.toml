@@ -1,4 +1,4 @@
-baseURL = "https://example.org"
+baseURL = "https://Bakerboy16.Github.io"
 languageCode = "en-us"
 theme = "poison"
 pluralizelisttitles = false   # removes the automatically appended "s" on sidebar entries
