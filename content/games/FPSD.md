@@ -8,5 +8,7 @@ title = 'FPS demo'
 Wanted to test out the movement I worked on, and applied it to a small scale fps level
 
 
+
+![image](/test.png)
 [Link](/about/)
 
