@@ -1,4 +1,4 @@
-baseURL = "https://bakerboy16.github.io/Bakerboy16/"
+baseURL = "https://bakerboy16.github.io/"
 canonifyURLs = true
 languageCode = "en-us"
 theme = "poison"
